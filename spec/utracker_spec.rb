@@ -5,6 +5,11 @@ RSpec.describe Utracker do
     subject { config }
     it { is_expected.to be_a Hash }
     it { is_expected.to be_frozen }
+
+    describe "the default 'logger_class' value" do
+      subject { config[:logger_class] }
+      it { is_expected.to be Utracker::StdoutLogger }
+    end
   end
 
   describe ".configure" do
@@ -23,5 +28,10 @@ RSpec.describe Utracker do
         it { expect{ subject }.to raise_error }
       end
     end
+  end
+
+  describe ".logger" do
+    subject { Utracker.logger }
+    it { is_expected.to be_a Utracker::Logger }
   end
 end
