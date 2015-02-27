@@ -20,7 +20,7 @@ module Utracker
     end
 
     def logger
-      @logger ||= @config[:logger_class].new
+      @logger ||= config[:logger_class].new
     end
 
     private

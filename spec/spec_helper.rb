@@ -1,6 +1,7 @@
 require 'utracker'
 
-require 'pry'
+require 'pry-byebug'
+require 'timecop'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
@@ -13,10 +14,6 @@ RSpec.configure do |config|
 
   # See: http://www.rubydoc.info/github/rspec/rspec-core/RSpec/Core/Configuration#disable_monkey_patching%21-instance_method
   config.disable_monkey_patching!
-
-  config.warnings = true
-
-  config.profile_examples = 5
 
   config.order = :random
   Kernel.srand config.seed
