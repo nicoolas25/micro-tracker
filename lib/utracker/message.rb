@@ -26,6 +26,10 @@ class Utracker::Message
     @content = kwargs[:content]
   end
 
+  def log(event)
+    Utracker.logger.log(self, event)
+  end
+
   def to_json
     MultiJson.dump({
       'uuid' => @uuid,
