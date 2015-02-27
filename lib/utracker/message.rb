@@ -30,8 +30,8 @@ class Utracker::Message
     @parent_uuid = parent_uuid
   end
 
-  def log(event)
-    Utracker.logger.log(self, event)
+  def log(event, options={})
+    Utracker.logger.log(self, event, options)
   end
 
   def pack(payload)

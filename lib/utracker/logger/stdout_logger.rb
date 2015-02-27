@@ -4,15 +4,17 @@ class Utracker::StdoutLogger < Utracker::Logger
 
   protected
 
-  def write(event)
-    STDOUT.puts MultiJson.dump({
+  def write(event, options)
+    {
       datetime: event.datetime.to_s,
       service: event.service,
       description: event.description,
       uuid: event.message.uuid,
       parent_uuid: event.message.parent_uuid,
-      payload: event.message.content,
-    })
+    }.tap do |hash|
+      hash[:payload] = event.message.content unless options[:hide_payload]
+      STDOUT.puts MultiJson.dump(hash)
+    end
   end
 
 end
