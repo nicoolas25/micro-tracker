@@ -60,5 +60,10 @@ RSpec.describe Utracker::Message do
       let(:instance) { packed_message.pack(payload) }
       it { is_expected.to eq packed_message.uuid }
     end
+
+    context 'when the message was serialized' do
+      let(:instance) { Utracker::Message.unpack(packed_message.pack(payload).to_json) }
+      it { is_expected.to eq packed_message.uuid }
+    end
   end
 end
