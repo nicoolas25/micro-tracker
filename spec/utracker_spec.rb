@@ -1,12 +1,13 @@
 RSpec.describe Utracker do
   let(:config) { Utracker.config }
+  before { Utracker.configure {} }
 
   describe ".config" do
     subject { config }
     it { is_expected.to be_a Hash }
     it { is_expected.to be_frozen }
 
-    describe "the default 'logger_class' value" do
+    describe "the default :logger_class value" do
       subject { config[:logger_class] }
       it { is_expected.to be Utracker::StdoutLogger }
     end
@@ -33,5 +34,11 @@ RSpec.describe Utracker do
   describe ".logger" do
     subject { Utracker.logger }
     it { is_expected.to be_a Utracker::Logger }
+
+    context 'when the :logger_class config key had been configured' do
+      before { Utracker.configure { |config| config[:logger_class] = logger_class } }
+      let(:logger_class) { Time }
+      it { is_expected.to be_a logger_class }
+    end
   end
 end

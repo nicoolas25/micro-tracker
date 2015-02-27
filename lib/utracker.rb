@@ -15,11 +15,12 @@ module Utracker
     def configure
       @config = default_configuration
       yield @config
+      @logger = nil
       @config.freeze
     end
 
     def logger
-      @logger ||= config[:logger_class].new
+      @logger ||= @config[:logger_class].new
     end
 
     private
