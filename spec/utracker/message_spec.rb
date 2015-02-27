@@ -42,4 +42,23 @@ RSpec.describe Utracker::Message do
       it { is_expected.to eq payload }
     end
   end
+
+  describe '#pack' do
+    subject { packed_message.pack(payload) }
+    it { is_expected.to be_a described_class }
+  end
+
+  describe '#parent_uuid' do
+    subject { instance.parent_uuid }
+
+    context 'when the message was packed by the class' do
+      let(:instance) { packed_message }
+      it { is_expected.to eq nil }
+    end
+
+    context 'when the message was packed by another message' do
+      let(:instance) { packed_message.pack(payload) }
+      it { is_expected.to eq packed_message.uuid }
+    end
+  end
 end

@@ -7,8 +7,8 @@ class Utracker::Message
 
     private :new
 
-    def pack(payload)
-      new(uuid: SecureRandom.uuid, content: payload)
+    def pack(payload, parent: nil)
+      new(uuid: SecureRandom.uuid, content: payload, parent: parent)
     end
 
     def unpack(serialized_message)
@@ -19,15 +19,22 @@ class Utracker::Message
   end
 
   attr_reader :uuid
+  attr_reader :parent_uuid
   attr_reader :content
 
-  def initialize(**kwargs)
-    @uuid = kwargs[:uuid]
-    @content = kwargs[:content]
+  def initialize(uuid:, content:, parent: nil)
+    @uuid = uuid
+    @content = content
+    @parent = parent
+    @parent_uuid = @parent && @parent.uuid
   end
 
   def log(event)
     Utracker.logger.log(self, event)
+  end
+
+  def pack(payload)
+    self.class.pack(payload, parent: self)
   end
 
   def to_json
