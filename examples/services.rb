@@ -1,3 +1,21 @@
+#
+# In this example 3 bots are sending each other messages. Each bot run in a
+# separated thread. A bot follows this behaviour:
+#
+#   1. Check its inbox (queue)
+#   2. If there is no message in the queue, he send a message to another bot
+#   3. If there is some message in the queue he read them one by one
+#   4. For each read message, the robot can send a message to another bot
+#   5. The bot rests
+#
+# For the steps 2, 3 and 4 the bot will log the following events:
+#
+#   - seeding
+#   - handle
+#   - reply
+#
+
+
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
