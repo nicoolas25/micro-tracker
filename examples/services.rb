@@ -66,7 +66,7 @@ class Bot
 
   def handle(serialization)
     message = Utracker::Message.unpack(serialization)
-    message.log('handle')
+    message.log('handle', hide_payload: true)
     reply_to(message)
   end
 
