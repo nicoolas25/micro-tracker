@@ -1,5 +1,5 @@
 require "utracker/version"
 
 module Utracker
-  # Your code goes here...
+  autoload :Message, 'utracker/message'
 end

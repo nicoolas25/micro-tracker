@@ -28,12 +28,12 @@ end
 def send_message(message)
   UTracker::Message.pack(message).tap do |packed_message|
     packed_message.log('sending')
-  end
+  end.to_json
 end
 
 def receive_message(packed_message)
   UTracker::Message.unpack(packed_message).tap do |u_message|
-    u_message.log('receiving')    
+    u_message.log('receiving')
   end
 end
 
