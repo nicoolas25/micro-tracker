@@ -1,5 +1,7 @@
 # Micro-tracker
 
+<img src="https://travis-ci.org/nicoolas25/micro-tracker.svg" alt="Build status thanks to Travis CI." />
+
 Modern web application are more and more designed with micro-services. Those services exchange messages in order to communicate with each other. Eventually your architecture ends with a graph of services that could be quite complex. Micro-tracker is all about tracking this micro-service's interactions in order to know which service received which message, when and from which other service. It will help you monitor your architecture and debug faster.
 
 ## Properties
