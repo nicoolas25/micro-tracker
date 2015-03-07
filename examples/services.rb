@@ -3,8 +3,8 @@
 # separated thread. A bot follows this behaviour:
 #
 #   1. Check its inbox (queue)
-#   2. If there is no message in the queue, he send a message to another bot
-#   3. If there is some message in the queue he read them one by one
+#   2. If there is no message in the queue, he sends a message to another bot
+#   3. If there is some message in the queue he reads them one by one
 #   4. For each read message, the robot can send a message to another bot
 #   5. The bot rests
 #
