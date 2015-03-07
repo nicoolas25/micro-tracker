@@ -6,12 +6,13 @@
 
 Modern web application are more and more designed with micro-services. Those services exchange messages in order to communicate with each other. Eventually your architecture ends with a graph of services that could be quite complex. Micro-tracker is all about tracking this micro-service's interactions in order to know which service received which message, when and from which other service. It will help you monitor your architecture and debug faster.
 
-## Properties
+## Features
 
 * [x] Assign an unique identifier to each packed message.
 * [x] Retrieve the unique identifier when the message in unpacked.
 * [x] Log events concerning a message.
 * [x] Create messages using a parent message.
+* [x] Allow to filter the payload in logs.
 
 ## Useful tools on top of this
 
