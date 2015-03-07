@@ -52,7 +52,7 @@ class Bot
   def consume_queue
     if @queue.empty?
       if target = others.sample
-        message = Utracker::Message.pack("I've got nothing to do...")
+        message = Utracker::Message.pack("Let me tell you a secret:12345")
         target.queue.push(message.to_json)
         message.log('seeding')
       end
@@ -92,7 +92,13 @@ end
 
 threads = BOTS.keys.map do |name|
   Thread.new do
-    Utracker.configure { |config| config[:service_name] = name }
+    Utracker.configure do |config|
+      config[:service_name] = name
+      config[:formatter] = ->(payload) {
+        payload.gsub(/secret:\d+/, "secret:<hidden>")
+      }
+    end
+
     Bot.new(name).tap do |bot|
       BOTS[name] = bot
       bot.run

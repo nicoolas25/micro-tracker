@@ -28,7 +28,9 @@ RSpec.describe Utracker::Logger do
       subject(:log_event) { instance.log(message, description, hide_payload: true) }
 
       it 'passes the option to the write method as an option' do
-        expect(instance).to receive(:write).with(anything, {hide_payload: true})
+        expect(instance).to receive(:write) do |event|
+          expect(event.payload).to be_nil
+        end
         log_event
       end
     end

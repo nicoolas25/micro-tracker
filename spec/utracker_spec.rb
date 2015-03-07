@@ -11,6 +11,17 @@ RSpec.describe Utracker do
       subject { config[:logger_class] }
       it { is_expected.to be Utracker::StdoutLogger }
     end
+
+    describe "the default :formatter value" do
+      subject { config[:formatter] }
+      it { is_expected.to be_an_instance_of Proc }
+
+      describe "the default formatter" do
+        subject { config[:formatter][its_argument] }
+        let(:its_argument) { double }
+        it { is_expected.to be its_argument }
+      end
+    end
   end
 
   describe ".configure" do

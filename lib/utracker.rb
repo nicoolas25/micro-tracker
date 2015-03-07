@@ -7,6 +7,8 @@ module Utracker
 
   autoload :Message, 'utracker/message'
 
+  DEFAULT_FORMATTER = ->(payload){ payload }
+
   module ModuleMethods
 
     def config
@@ -37,6 +39,7 @@ module Utracker
     def default_configuration
       Hash.new{ |_, key| fail "Missing key '#{key}' in Utracker's configuration." }.tap do |hash|
         hash[:logger_class] = Utracker::StdoutLogger
+        hash[:formatter] = DEFAULT_FORMATTER
       end
     end
 

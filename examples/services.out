@@ -1,160 +1,122 @@
-{"datetime":"2015-02-27 16:56:36 +0100","service":"bob","description":"seeding","uuid":"4a128cbc-932e-4680-980e-53bd06643d78","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:36 +0100","service":"alice","description":"seeding","uuid":"806453e9-eaf1-4290-a545-adf899b04859","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"alice","description":"seeding","uuid":"8e5cceeb-7d33-45b1-8e45-ba8c8db9b1e2","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"bob","description":"seeding","uuid":"1d933a8c-e2a2-40ae-bb35-3dc2da95651f","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"bob","description":"seeding","uuid":"b051a8c5-9ed6-4fc5-838a-399b37454e8b","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"bob","description":"seeding","uuid":"b1d57c83-9388-4f13-a08a-fa985ca52f40","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"handle","uuid":"4a128cbc-932e-4680-980e-53bd06643d78","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"handle","uuid":"806453e9-eaf1-4290-a545-adf899b04859","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"handle","uuid":"8e5cceeb-7d33-45b1-8e45-ba8c8db9b1e2","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"handle","uuid":"1d933a8c-e2a2-40ae-bb35-3dc2da95651f","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"reply","uuid":"b7e2f3e3-43a5-4632-b2c4-bb87d70456c4","parent_uuid":"1d933a8c-e2a2-40ae-bb35-3dc2da95651f","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"handle","uuid":"b051a8c5-9ed6-4fc5-838a-399b37454e8b","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"reply","uuid":"a94f00b5-b4d1-44bc-aa57-e3b46e73347c","parent_uuid":"b051a8c5-9ed6-4fc5-838a-399b37454e8b","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"carl","description":"handle","uuid":"b1d57c83-9388-4f13-a08a-fa985ca52f40","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"bob","description":"seeding","uuid":"6963d33f-1356-4f17-8692-b43bb2435c65","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"alice","description":"handle","uuid":"b7e2f3e3-43a5-4632-b2c4-bb87d70456c4","parent_uuid":"1d933a8c-e2a2-40ae-bb35-3dc2da95651f"}
-{"datetime":"2015-02-27 16:56:37 +0100","service":"alice","description":"handle","uuid":"a94f00b5-b4d1-44bc-aa57-e3b46e73347c","parent_uuid":"b051a8c5-9ed6-4fc5-838a-399b37454e8b"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"alice","description":"seeding","uuid":"8b7b6bb9-6be5-48ca-bcee-3ed8f3f7063d","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"alice","description":"seeding","uuid":"a691dd38-958e-4f0f-ac5b-3bc03df0a2dd","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"alice","description":"seeding","uuid":"abba4682-6deb-424a-a24b-fb6e87b0a577","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"handle","uuid":"6963d33f-1356-4f17-8692-b43bb2435c65","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"reply","uuid":"05dcd253-9f29-44bb-9a42-1d2778a55bf4","parent_uuid":"6963d33f-1356-4f17-8692-b43bb2435c65","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"handle","uuid":"8b7b6bb9-6be5-48ca-bcee-3ed8f3f7063d","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"reply","uuid":"747ff41a-de06-4bb8-80bb-54bec62326c8","parent_uuid":"8b7b6bb9-6be5-48ca-bcee-3ed8f3f7063d","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"handle","uuid":"abba4682-6deb-424a-a24b-fb6e87b0a577","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"reply","uuid":"edc50ee5-5463-4eac-9d31-0a3a8fdbbe33","parent_uuid":"abba4682-6deb-424a-a24b-fb6e87b0a577","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"seeding","uuid":"0ac37443-1995-46cd-8c42-c9f1dcd09a69","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"bob","description":"handle","uuid":"a691dd38-958e-4f0f-ac5b-3bc03df0a2dd","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"bob","description":"handle","uuid":"05dcd253-9f29-44bb-9a42-1d2778a55bf4","parent_uuid":"6963d33f-1356-4f17-8692-b43bb2435c65"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"bob","description":"reply","uuid":"6ad3083c-50ac-4317-ae13-35c8e9272940","parent_uuid":"05dcd253-9f29-44bb-9a42-1d2778a55bf4","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"handle","uuid":"6ad3083c-50ac-4317-ae13-35c8e9272940","parent_uuid":"05dcd253-9f29-44bb-9a42-1d2778a55bf4"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"carl","description":"reply","uuid":"f6826a38-8592-441e-a51b-3429a1abd781","parent_uuid":"6ad3083c-50ac-4317-ae13-35c8e9272940","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"bob","description":"handle","uuid":"f6826a38-8592-441e-a51b-3429a1abd781","parent_uuid":"6ad3083c-50ac-4317-ae13-35c8e9272940"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"alice","description":"handle","uuid":"747ff41a-de06-4bb8-80bb-54bec62326c8","parent_uuid":"8b7b6bb9-6be5-48ca-bcee-3ed8f3f7063d"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"alice","description":"handle","uuid":"edc50ee5-5463-4eac-9d31-0a3a8fdbbe33","parent_uuid":"abba4682-6deb-424a-a24b-fb6e87b0a577"}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"alice","description":"handle","uuid":"0ac37443-1995-46cd-8c42-c9f1dcd09a69","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:38 +0100","service":"alice","description":"reply","uuid":"dcd4de02-b8d6-4b2f-b38d-d018d628831b","parent_uuid":"0ac37443-1995-46cd-8c42-c9f1dcd09a69","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"handle","uuid":"dcd4de02-b8d6-4b2f-b38d-d018d628831b","parent_uuid":"0ac37443-1995-46cd-8c42-c9f1dcd09a69"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"alice","description":"seeding","uuid":"c8a8bd6a-1914-4944-8653-c42591d14cfb","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"carl","description":"seeding","uuid":"411b6f20-8712-4b21-a9c1-967dab85fc97","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"alice","description":"seeding","uuid":"a87be0ea-7d73-4434-af49-b18df1955ac7","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"carl","description":"seeding","uuid":"38dc4522-4c4a-48a7-af33-6fe7f89d3b51","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"alice","description":"handle","uuid":"38dc4522-4c4a-48a7-af33-6fe7f89d3b51","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"alice","description":"reply","uuid":"f67c42af-cc08-4861-88b3-6a0c6b208b2b","parent_uuid":"38dc4522-4c4a-48a7-af33-6fe7f89d3b51","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"handle","uuid":"c8a8bd6a-1914-4944-8653-c42591d14cfb","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"handle","uuid":"411b6f20-8712-4b21-a9c1-967dab85fc97","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"reply","uuid":"e4d5af78-ab77-4b44-89ba-db0f86321779","parent_uuid":"411b6f20-8712-4b21-a9c1-967dab85fc97","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"handle","uuid":"a87be0ea-7d73-4434-af49-b18df1955ac7","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"reply","uuid":"d7954d22-3264-4059-8897-45cc07085e1d","parent_uuid":"a87be0ea-7d73-4434-af49-b18df1955ac7","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"handle","uuid":"f67c42af-cc08-4861-88b3-6a0c6b208b2b","parent_uuid":"38dc4522-4c4a-48a7-af33-6fe7f89d3b51"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"seeding","uuid":"68133b2a-949c-4d21-ab80-642bdbb7a993","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"bob","description":"seeding","uuid":"0c289cce-d9fe-444e-b81e-de0a74d52e21","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"carl","description":"handle","uuid":"e4d5af78-ab77-4b44-89ba-db0f86321779","parent_uuid":"411b6f20-8712-4b21-a9c1-967dab85fc97"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"carl","description":"reply","uuid":"20bb48de-8d4f-4c02-bc8d-af190ec51572","parent_uuid":"e4d5af78-ab77-4b44-89ba-db0f86321779","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"carl","description":"handle","uuid":"d7954d22-3264-4059-8897-45cc07085e1d","parent_uuid":"a87be0ea-7d73-4434-af49-b18df1955ac7"}
-{"datetime":"2015-02-27 16:56:39 +0100","service":"carl","description":"reply","uuid":"28a00292-0c2e-4571-ac1d-272b1f8c7124","parent_uuid":"d7954d22-3264-4059-8897-45cc07085e1d","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"carl","description":"seeding","uuid":"938aba80-5b52-452a-bbc3-9e7942ada06b","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"handle","uuid":"68133b2a-949c-4d21-ab80-642bdbb7a993","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"reply","uuid":"3cc08a36-448a-48e0-a91b-fd4f7535e9dd","parent_uuid":"68133b2a-949c-4d21-ab80-642bdbb7a993","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"handle","uuid":"0c289cce-d9fe-444e-b81e-de0a74d52e21","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"handle","uuid":"20bb48de-8d4f-4c02-bc8d-af190ec51572","parent_uuid":"e4d5af78-ab77-4b44-89ba-db0f86321779"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"handle","uuid":"28a00292-0c2e-4571-ac1d-272b1f8c7124","parent_uuid":"d7954d22-3264-4059-8897-45cc07085e1d"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"reply","uuid":"25a5ae02-ca6e-4368-b537-fe7666d95f5c","parent_uuid":"28a00292-0c2e-4571-ac1d-272b1f8c7124","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"bob","description":"handle","uuid":"938aba80-5b52-452a-bbc3-9e7942ada06b","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"bob","description":"handle","uuid":"25a5ae02-ca6e-4368-b537-fe7666d95f5c","parent_uuid":"28a00292-0c2e-4571-ac1d-272b1f8c7124"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"bob","description":"reply","uuid":"c24b6713-ccb2-4ee9-a078-ec3555887f18","parent_uuid":"25a5ae02-ca6e-4368-b537-fe7666d95f5c","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"carl","description":"handle","uuid":"3cc08a36-448a-48e0-a91b-fd4f7535e9dd","parent_uuid":"68133b2a-949c-4d21-ab80-642bdbb7a993"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"carl","description":"reply","uuid":"78c9ba2b-277d-477b-949b-18fc242b02c2","parent_uuid":"3cc08a36-448a-48e0-a91b-fd4f7535e9dd","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"handle","uuid":"c24b6713-ccb2-4ee9-a078-ec3555887f18","parent_uuid":"25a5ae02-ca6e-4368-b537-fe7666d95f5c"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"alice","description":"handle","uuid":"78c9ba2b-277d-477b-949b-18fc242b02c2","parent_uuid":"3cc08a36-448a-48e0-a91b-fd4f7535e9dd"}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"bob","description":"seeding","uuid":"f48c7c38-1a1c-4ba5-8db7-cb51e6664bed","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:40 +0100","service":"carl","description":"handle","uuid":"f48c7c38-1a1c-4ba5-8db7-cb51e6664bed","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:41 +0100","service":"alice","description":"seeding","uuid":"19124555-894c-43fd-8e94-6ced0aa0749b","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:41 +0100","service":"bob","description":"seeding","uuid":"dfd697a5-2a76-4974-937f-e23efa8a1711","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:41 +0100","service":"carl","description":"handle","uuid":"19124555-894c-43fd-8e94-6ced0aa0749b","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"bob","description":"seeding","uuid":"029355ed-f753-4c54-9047-8cf4b0ecf094","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"alice","description":"handle","uuid":"dfd697a5-2a76-4974-937f-e23efa8a1711","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"alice","description":"reply","uuid":"ceb74713-a830-4c48-a9c1-76a9b99725b8","parent_uuid":"dfd697a5-2a76-4974-937f-e23efa8a1711","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"alice","description":"handle","uuid":"029355ed-f753-4c54-9047-8cf4b0ecf094","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"carl","description":"handle","uuid":"ceb74713-a830-4c48-a9c1-76a9b99725b8","parent_uuid":"dfd697a5-2a76-4974-937f-e23efa8a1711"}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"carl","description":"reply","uuid":"ea220a39-920e-41b4-b7f5-f6355e765145","parent_uuid":"ceb74713-a830-4c48-a9c1-76a9b99725b8","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"carl","description":"seeding","uuid":"5be72250-6f7a-40ff-801b-293ddffb86c3","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"carl","description":"seeding","uuid":"1b038a3c-d166-4592-87c1-5d6c13fd501d","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"bob","description":"handle","uuid":"ea220a39-920e-41b4-b7f5-f6355e765145","parent_uuid":"ceb74713-a830-4c48-a9c1-76a9b99725b8"}
-{"datetime":"2015-02-27 16:56:42 +0100","service":"bob","description":"reply","uuid":"968cbba9-7ec4-4706-af9e-f0cfd75ea915","parent_uuid":"ea220a39-920e-41b4-b7f5-f6355e765145","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"bob","description":"seeding","uuid":"3bf02913-a246-4e10-8122-a0aa923445a7","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"carl","description":"handle","uuid":"968cbba9-7ec4-4706-af9e-f0cfd75ea915","parent_uuid":"ea220a39-920e-41b4-b7f5-f6355e765145"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"carl","description":"handle","uuid":"3bf02913-a246-4e10-8122-a0aa923445a7","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"carl","description":"reply","uuid":"16531d17-3f04-49e8-9e95-d2d0aeee43a7","parent_uuid":"3bf02913-a246-4e10-8122-a0aa923445a7","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"bob","description":"seeding","uuid":"4be27334-2b81-49af-b35f-bb19d5ab214d","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"alice","description":"handle","uuid":"5be72250-6f7a-40ff-801b-293ddffb86c3","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"alice","description":"reply","uuid":"67ae8132-04d1-4af5-abac-bf3fee666497","parent_uuid":"5be72250-6f7a-40ff-801b-293ddffb86c3","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"alice","description":"handle","uuid":"1b038a3c-d166-4592-87c1-5d6c13fd501d","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"alice","description":"reply","uuid":"325d7505-2d5f-464e-af4b-a5a6f50b9397","parent_uuid":"1b038a3c-d166-4592-87c1-5d6c13fd501d","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"alice","description":"handle","uuid":"16531d17-3f04-49e8-9e95-d2d0aeee43a7","parent_uuid":"3bf02913-a246-4e10-8122-a0aa923445a7"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"alice","description":"handle","uuid":"4be27334-2b81-49af-b35f-bb19d5ab214d","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"alice","description":"reply","uuid":"99add8d0-2033-43f5-839e-c4dd23bc4eea","parent_uuid":"4be27334-2b81-49af-b35f-bb19d5ab214d","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"carl","description":"handle","uuid":"67ae8132-04d1-4af5-abac-bf3fee666497","parent_uuid":"5be72250-6f7a-40ff-801b-293ddffb86c3"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"carl","description":"handle","uuid":"325d7505-2d5f-464e-af4b-a5a6f50b9397","parent_uuid":"1b038a3c-d166-4592-87c1-5d6c13fd501d"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"carl","description":"seeding","uuid":"208ba772-b978-45a6-afb1-937acd4b4944","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"carl","description":"seeding","uuid":"286b0d2a-c761-4b57-b44f-551995a3f187","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"bob","description":"handle","uuid":"99add8d0-2033-43f5-839e-c4dd23bc4eea","parent_uuid":"4be27334-2b81-49af-b35f-bb19d5ab214d"}
-{"datetime":"2015-02-27 16:56:43 +0100","service":"bob","description":"reply","uuid":"97ccf287-b6a7-4f04-aa7b-2faf459e2d98","parent_uuid":"99add8d0-2033-43f5-839e-c4dd23bc4eea","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"bob","description":"seeding","uuid":"a13938a2-641b-422e-b23a-253c4e601365","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"alice","description":"handle","uuid":"208ba772-b978-45a6-afb1-937acd4b4944","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"alice","description":"reply","uuid":"c246e3d3-702a-4e81-916b-44cbfd5e0c7e","parent_uuid":"208ba772-b978-45a6-afb1-937acd4b4944","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"alice","description":"handle","uuid":"286b0d2a-c761-4b57-b44f-551995a3f187","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"alice","description":"handle","uuid":"97ccf287-b6a7-4f04-aa7b-2faf459e2d98","parent_uuid":"99add8d0-2033-43f5-839e-c4dd23bc4eea"}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"alice","description":"reply","uuid":"6aa99936-8057-4a28-84e7-9adc62214632","parent_uuid":"97ccf287-b6a7-4f04-aa7b-2faf459e2d98","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"alice","description":"handle","uuid":"a13938a2-641b-422e-b23a-253c4e601365","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"carl","description":"handle","uuid":"c246e3d3-702a-4e81-916b-44cbfd5e0c7e","parent_uuid":"208ba772-b978-45a6-afb1-937acd4b4944"}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"carl","description":"handle","uuid":"6aa99936-8057-4a28-84e7-9adc62214632","parent_uuid":"97ccf287-b6a7-4f04-aa7b-2faf459e2d98"}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"bob","description":"seeding","uuid":"26670824-dcfb-42d8-8c46-8ba8b9d97edb","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"bob","description":"seeding","uuid":"fa96faa1-105e-4e3d-a77d-1be45717aec4","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"carl","description":"handle","uuid":"26670824-dcfb-42d8-8c46-8ba8b9d97edb","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"carl","description":"reply","uuid":"63a3c29d-84eb-4b60-8f26-b1aa03ac07ac","parent_uuid":"26670824-dcfb-42d8-8c46-8ba8b9d97edb","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"carl","description":"handle","uuid":"fa96faa1-105e-4e3d-a77d-1be45717aec4","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:44 +0100","service":"carl","description":"reply","uuid":"9d95ce5a-c902-4e62-9029-513ca1d0f0a0","parent_uuid":"fa96faa1-105e-4e3d-a77d-1be45717aec4","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:45 +0100","service":"alice","description":"handle","uuid":"9d95ce5a-c902-4e62-9029-513ca1d0f0a0","parent_uuid":"fa96faa1-105e-4e3d-a77d-1be45717aec4"}
-{"datetime":"2015-02-27 16:56:45 +0100","service":"bob","description":"handle","uuid":"63a3c29d-84eb-4b60-8f26-b1aa03ac07ac","parent_uuid":"26670824-dcfb-42d8-8c46-8ba8b9d97edb"}
-{"datetime":"2015-02-27 16:56:45 +0100","service":"bob","description":"reply","uuid":"c427a353-594a-4677-b5cf-37566f676270","parent_uuid":"63a3c29d-84eb-4b60-8f26-b1aa03ac07ac","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:45 +0100","service":"carl","description":"handle","uuid":"c427a353-594a-4677-b5cf-37566f676270","parent_uuid":"63a3c29d-84eb-4b60-8f26-b1aa03ac07ac"}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"bob","description":"seeding","uuid":"e1bf5c7f-0fe9-44c1-8b7a-b56ef3de1362","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"alice","description":"handle","uuid":"e1bf5c7f-0fe9-44c1-8b7a-b56ef3de1362","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"alice","description":"reply","uuid":"3c92b191-eeae-4102-95fe-c248fd2ad725","parent_uuid":"e1bf5c7f-0fe9-44c1-8b7a-b56ef3de1362","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"bob","description":"handle","uuid":"3c92b191-eeae-4102-95fe-c248fd2ad725","parent_uuid":"e1bf5c7f-0fe9-44c1-8b7a-b56ef3de1362"}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"alice","description":"seeding","uuid":"7bf1151f-bdb4-4d3a-b3f8-815a3d62f26f","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"carl","description":"seeding","uuid":"85e80191-011e-4682-a9b3-912d521da306","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"bob","description":"handle","uuid":"7bf1151f-bdb4-4d3a-b3f8-815a3d62f26f","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"bob","description":"handle","uuid":"85e80191-011e-4682-a9b3-912d521da306","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"bob","description":"reply","uuid":"4b226f3d-8bb8-4f97-917c-648de27958f9","parent_uuid":"85e80191-011e-4682-a9b3-912d521da306","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:46 +0100","service":"alice","description":"handle","uuid":"4b226f3d-8bb8-4f97-917c-648de27958f9","parent_uuid":"85e80191-011e-4682-a9b3-912d521da306"}
-{"datetime":"2015-02-27 16:56:47 +0100","service":"bob","description":"seeding","uuid":"28eeb852-b0bb-42ec-b7e7-9a75fe4e2410","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:47 +0100","service":"carl","description":"seeding","uuid":"37faf338-6fc1-4c50-a5f7-b5df9d064b17","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:47 +0100","service":"alice","description":"handle","uuid":"28eeb852-b0bb-42ec-b7e7-9a75fe4e2410","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:47 +0100","service":"alice","description":"reply","uuid":"41fd78ff-58a6-4cdb-87c3-9516d33017de","parent_uuid":"28eeb852-b0bb-42ec-b7e7-9a75fe4e2410","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:47 +0100","service":"alice","description":"handle","uuid":"37faf338-6fc1-4c50-a5f7-b5df9d064b17","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:47 +0100","service":"alice","description":"reply","uuid":"ce522bc1-523f-44c4-bb3f-2e75607417e4","parent_uuid":"37faf338-6fc1-4c50-a5f7-b5df9d064b17","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"bob","description":"seeding","uuid":"fa81bbed-92ce-4d81-bb6d-c33b7cc09d10","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"carl","description":"handle","uuid":"41fd78ff-58a6-4cdb-87c3-9516d33017de","parent_uuid":"28eeb852-b0bb-42ec-b7e7-9a75fe4e2410"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"carl","description":"reply","uuid":"133547d8-a895-46fc-9c8e-f4437f0e6cb8","parent_uuid":"41fd78ff-58a6-4cdb-87c3-9516d33017de","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"carl","description":"handle","uuid":"ce522bc1-523f-44c4-bb3f-2e75607417e4","parent_uuid":"37faf338-6fc1-4c50-a5f7-b5df9d064b17"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"carl","description":"reply","uuid":"63550799-4777-432a-99c6-a26ef2a01f50","parent_uuid":"ce522bc1-523f-44c4-bb3f-2e75607417e4","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"carl","description":"seeding","uuid":"f75462af-ff6a-49e4-a06c-9ced90c958fa","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"bob","description":"handle","uuid":"63550799-4777-432a-99c6-a26ef2a01f50","parent_uuid":"ce522bc1-523f-44c4-bb3f-2e75607417e4"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"bob","description":"handle","uuid":"f75462af-ff6a-49e4-a06c-9ced90c958fa","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"alice","description":"handle","uuid":"fa81bbed-92ce-4d81-bb6d-c33b7cc09d10","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"alice","description":"reply","uuid":"29d845f4-56a2-42fd-a176-fd347cb724f3","parent_uuid":"fa81bbed-92ce-4d81-bb6d-c33b7cc09d10","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"alice","description":"handle","uuid":"133547d8-a895-46fc-9c8e-f4437f0e6cb8","parent_uuid":"41fd78ff-58a6-4cdb-87c3-9516d33017de"}
-{"datetime":"2015-02-27 16:56:48 +0100","service":"alice","description":"seeding","uuid":"cd5abee4-227e-4145-93df-9bf851310b59","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"alice","description":"seeding","uuid":"20fd19b5-82ca-4545-aed0-d8af1b18cbf4","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"bob","description":"seeding","uuid":"94be03eb-8cc7-4b71-a6fe-e7b1e37e9110","parent_uuid":null,"payload":"I've got nothing to do..."}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"carl","description":"handle","uuid":"29d845f4-56a2-42fd-a176-fd347cb724f3","parent_uuid":"fa81bbed-92ce-4d81-bb6d-c33b7cc09d10"}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"carl","description":"handle","uuid":"cd5abee4-227e-4145-93df-9bf851310b59","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"carl","description":"handle","uuid":"20fd19b5-82ca-4545-aed0-d8af1b18cbf4","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"carl","description":"reply","uuid":"b706bb2f-db40-4629-8722-37a04565f963","parent_uuid":"20fd19b5-82ca-4545-aed0-d8af1b18cbf4","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"alice","description":"handle","uuid":"94be03eb-8cc7-4b71-a6fe-e7b1e37e9110","parent_uuid":null}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"alice","description":"reply","uuid":"c0b9a9fe-251b-4040-a842-70f9039c5633","parent_uuid":"94be03eb-8cc7-4b71-a6fe-e7b1e37e9110","payload":"Unleash the kraken!"}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"alice","description":"handle","uuid":"b706bb2f-db40-4629-8722-37a04565f963","parent_uuid":"20fd19b5-82ca-4545-aed0-d8af1b18cbf4"}
-{"datetime":"2015-02-27 16:56:49 +0100","service":"alice","description":"reply","uuid":"659d5a72-b83b-4464-8b7d-4413747f6c27","parent_uuid":"b706bb2f-db40-4629-8722-37a04565f963","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:28 +0100","service":"bob","description":"seeding","uuid":"7603cd5a-d5bb-4524-a1f8-3ac8f7177592","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:28 +0100","service":"carl","description":"seeding","uuid":"15eb6c10-af13-44fa-ae7d-d76d4f7729e7","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:28 +0100","service":"alice","description":"handle","uuid":"7603cd5a-d5bb-4524-a1f8-3ac8f7177592","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:28 +0100","service":"alice","description":"reply","uuid":"ceec2889-77ab-451b-a119-0dc717551a6c","parent_uuid":"7603cd5a-d5bb-4524-a1f8-3ac8f7177592","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:29 +0100","service":"carl","description":"seeding","uuid":"e29d7d4f-3163-4923-ac16-b007b1c659a5","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:29 +0100","service":"bob","description":"handle","uuid":"15eb6c10-af13-44fa-ae7d-d76d4f7729e7","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:29 +0100","service":"bob","description":"handle","uuid":"ceec2889-77ab-451b-a119-0dc717551a6c","parent_uuid":"7603cd5a-d5bb-4524-a1f8-3ac8f7177592","payload":null}
+{"datetime":"2015-03-07 17:53:29 +0100","service":"bob","description":"handle","uuid":"e29d7d4f-3163-4923-ac16-b007b1c659a5","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:29 +0100","service":"alice","description":"seeding","uuid":"245ddf65-c921-4731-a60d-2b5d28cad8e0","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:29 +0100","service":"carl","description":"seeding","uuid":"39f30422-ee7e-4469-8333-0196a6808d5c","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"handle","uuid":"245ddf65-c921-4731-a60d-2b5d28cad8e0","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"handle","uuid":"39f30422-ee7e-4469-8333-0196a6808d5c","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"reply","uuid":"9e6f9b3f-f833-4746-9e6f-c632efd336a8","parent_uuid":"39f30422-ee7e-4469-8333-0196a6808d5c","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"alice","description":"seeding","uuid":"f59aef5d-0c06-4d6a-9cd2-8e7070811986","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"seeding","uuid":"705f73cc-8536-48a1-a7ba-cacc14b030f9","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"handle","uuid":"9e6f9b3f-f833-4746-9e6f-c632efd336a8","parent_uuid":"39f30422-ee7e-4469-8333-0196a6808d5c","payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"reply","uuid":"96868291-38bf-4df7-92c2-0fa3a5096ec6","parent_uuid":"9e6f9b3f-f833-4746-9e6f-c632efd336a8","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"handle","uuid":"f59aef5d-0c06-4d6a-9cd2-8e7070811986","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"reply","uuid":"2f0a5201-08c1-499c-bb13-118c471bd606","parent_uuid":"f59aef5d-0c06-4d6a-9cd2-8e7070811986","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"handle","uuid":"705f73cc-8536-48a1-a7ba-cacc14b030f9","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"reply","uuid":"06b6b7c1-82aa-46cc-8109-ad6c5ab28e46","parent_uuid":"705f73cc-8536-48a1-a7ba-cacc14b030f9","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"handle","uuid":"2f0a5201-08c1-499c-bb13-118c471bd606","parent_uuid":"f59aef5d-0c06-4d6a-9cd2-8e7070811986","payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"reply","uuid":"325da575-195e-4ef0-aac8-d1f9c7fe569d","parent_uuid":"2f0a5201-08c1-499c-bb13-118c471bd606","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"handle","uuid":"06b6b7c1-82aa-46cc-8109-ad6c5ab28e46","parent_uuid":"705f73cc-8536-48a1-a7ba-cacc14b030f9","payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"reply","uuid":"339ebac6-9b11-48cc-bf3c-6130a13308db","parent_uuid":"06b6b7c1-82aa-46cc-8109-ad6c5ab28e46","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"handle","uuid":"339ebac6-9b11-48cc-bf3c-6130a13308db","parent_uuid":"06b6b7c1-82aa-46cc-8109-ad6c5ab28e46","payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"carl","description":"reply","uuid":"2a9a827c-4bc8-4990-8d5a-311603cf7be7","parent_uuid":"339ebac6-9b11-48cc-bf3c-6130a13308db","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"handle","uuid":"2a9a827c-4bc8-4990-8d5a-311603cf7be7","parent_uuid":"339ebac6-9b11-48cc-bf3c-6130a13308db","payload":null}
+{"datetime":"2015-03-07 17:53:30 +0100","service":"bob","description":"reply","uuid":"2732845d-4092-437b-b77b-9bd7e5cc889d","parent_uuid":"2a9a827c-4bc8-4990-8d5a-311603cf7be7","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"alice","description":"handle","uuid":"96868291-38bf-4df7-92c2-0fa3a5096ec6","parent_uuid":"9e6f9b3f-f833-4746-9e6f-c632efd336a8","payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"alice","description":"reply","uuid":"cce72675-249b-41ce-a6be-b85528ba4d9d","parent_uuid":"96868291-38bf-4df7-92c2-0fa3a5096ec6","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"alice","description":"handle","uuid":"325da575-195e-4ef0-aac8-d1f9c7fe569d","parent_uuid":"2f0a5201-08c1-499c-bb13-118c471bd606","payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"alice","description":"handle","uuid":"2732845d-4092-437b-b77b-9bd7e5cc889d","parent_uuid":"2a9a827c-4bc8-4990-8d5a-311603cf7be7","payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"carl","description":"seeding","uuid":"406035d8-92be-4823-890c-35e2318bd93e","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"alice","description":"seeding","uuid":"50e177a7-add9-4772-94c3-9b31e6fafdc9","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"bob","description":"handle","uuid":"cce72675-249b-41ce-a6be-b85528ba4d9d","parent_uuid":"96868291-38bf-4df7-92c2-0fa3a5096ec6","payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"bob","description":"handle","uuid":"406035d8-92be-4823-890c-35e2318bd93e","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"alice","description":"seeding","uuid":"1120b8ba-fed5-4b18-a0f0-d8e25b06d6eb","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"bob","description":"handle","uuid":"1120b8ba-fed5-4b18-a0f0-d8e25b06d6eb","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"bob","description":"reply","uuid":"08cf626a-497b-4152-bb8c-bc8ddef3beac","parent_uuid":"1120b8ba-fed5-4b18-a0f0-d8e25b06d6eb","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"bob","description":"seeding","uuid":"4f4eb765-8cd5-438e-a86c-59939d47e619","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"bob","description":"seeding","uuid":"c95438f5-2f2b-410b-8b16-5ea337539442","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"alice","description":"handle","uuid":"08cf626a-497b-4152-bb8c-bc8ddef3beac","parent_uuid":"1120b8ba-fed5-4b18-a0f0-d8e25b06d6eb","payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"carl","description":"handle","uuid":"50e177a7-add9-4772-94c3-9b31e6fafdc9","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"carl","description":"handle","uuid":"4f4eb765-8cd5-438e-a86c-59939d47e619","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"carl","description":"handle","uuid":"c95438f5-2f2b-410b-8b16-5ea337539442","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:31 +0100","service":"carl","description":"reply","uuid":"ea2b9e63-369d-47b3-9838-0ad06bce9172","parent_uuid":"c95438f5-2f2b-410b-8b16-5ea337539442","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:32 +0100","service":"alice","description":"handle","uuid":"ea2b9e63-369d-47b3-9838-0ad06bce9172","parent_uuid":"c95438f5-2f2b-410b-8b16-5ea337539442","payload":null}
+{"datetime":"2015-03-07 17:53:32 +0100","service":"bob","description":"seeding","uuid":"49699852-af43-4b2d-b379-b4b73582b6bc","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:32 +0100","service":"bob","description":"seeding","uuid":"36f365d7-e898-480e-b8f6-79f8d08563fa","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:32 +0100","service":"carl","description":"handle","uuid":"49699852-af43-4b2d-b379-b4b73582b6bc","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"alice","description":"handle","uuid":"36f365d7-e898-480e-b8f6-79f8d08563fa","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"alice","description":"reply","uuid":"b2f41e71-29ae-4b5c-b4b4-9bd6266627f3","parent_uuid":"36f365d7-e898-480e-b8f6-79f8d08563fa","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"carl","description":"handle","uuid":"b2f41e71-29ae-4b5c-b4b4-9bd6266627f3","parent_uuid":"36f365d7-e898-480e-b8f6-79f8d08563fa","payload":null}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"carl","description":"reply","uuid":"d7b27970-440f-4e66-bc91-71280bedda09","parent_uuid":"b2f41e71-29ae-4b5c-b4b4-9bd6266627f3","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"bob","description":"seeding","uuid":"bf7875fe-47b0-474d-a7b4-4ac1213d45f7","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"alice","description":"handle","uuid":"d7b27970-440f-4e66-bc91-71280bedda09","parent_uuid":"b2f41e71-29ae-4b5c-b4b4-9bd6266627f3","payload":null}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"alice","description":"handle","uuid":"bf7875fe-47b0-474d-a7b4-4ac1213d45f7","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"alice","description":"reply","uuid":"eb990e42-d696-408f-abbf-ae59e1fad48f","parent_uuid":"bf7875fe-47b0-474d-a7b4-4ac1213d45f7","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"alice","description":"seeding","uuid":"62621a3c-421d-4522-b350-eff01a16b124","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:33 +0100","service":"carl","description":"seeding","uuid":"3101a633-e149-44f2-9ef5-242b79bf71aa","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"alice","description":"seeding","uuid":"6da9a2de-f5aa-445f-b33a-5934ce83f7e1","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"alice","description":"seeding","uuid":"cb1f35cd-4377-4385-93f3-50654496882d","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"carl","description":"seeding","uuid":"aa89a165-fce7-4bf2-becf-092637a8d580","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"handle","uuid":"eb990e42-d696-408f-abbf-ae59e1fad48f","parent_uuid":"bf7875fe-47b0-474d-a7b4-4ac1213d45f7","payload":null}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"reply","uuid":"41ad3d87-798a-411f-a5c9-80b9b3d1cd8f","parent_uuid":"eb990e42-d696-408f-abbf-ae59e1fad48f","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"handle","uuid":"62621a3c-421d-4522-b350-eff01a16b124","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"reply","uuid":"29ecd3dc-7808-4367-9c17-67aca0b6af6a","parent_uuid":"62621a3c-421d-4522-b350-eff01a16b124","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"handle","uuid":"3101a633-e149-44f2-9ef5-242b79bf71aa","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"handle","uuid":"6da9a2de-f5aa-445f-b33a-5934ce83f7e1","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"handle","uuid":"cb1f35cd-4377-4385-93f3-50654496882d","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"reply","uuid":"495ff98d-5d22-4453-ab1d-aca353a1ebb9","parent_uuid":"cb1f35cd-4377-4385-93f3-50654496882d","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"handle","uuid":"aa89a165-fce7-4bf2-becf-092637a8d580","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:34 +0100","service":"bob","description":"seeding","uuid":"b79df28f-520c-4c71-8626-ec538deb334a","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"alice","description":"handle","uuid":"495ff98d-5d22-4453-ab1d-aca353a1ebb9","parent_uuid":"cb1f35cd-4377-4385-93f3-50654496882d","payload":null}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"alice","description":"handle","uuid":"b79df28f-520c-4c71-8626-ec538deb334a","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"carl","description":"handle","uuid":"41ad3d87-798a-411f-a5c9-80b9b3d1cd8f","parent_uuid":"eb990e42-d696-408f-abbf-ae59e1fad48f","payload":null}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"carl","description":"handle","uuid":"29ecd3dc-7808-4367-9c17-67aca0b6af6a","parent_uuid":"62621a3c-421d-4522-b350-eff01a16b124","payload":null}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"bob","description":"seeding","uuid":"fa8c079d-c17b-487a-926e-93141994fd7a","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"carl","description":"handle","uuid":"fa8c079d-c17b-487a-926e-93141994fd7a","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"alice","description":"seeding","uuid":"a3b29277-692a-454a-b0a0-9b159d98ab7c","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:35 +0100","service":"bob","description":"seeding","uuid":"1784a058-7a29-4d26-a048-5579524ad642","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"carl","description":"handle","uuid":"a3b29277-692a-454a-b0a0-9b159d98ab7c","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"carl","description":"reply","uuid":"bc63b3c5-f047-48e4-a061-d6945b55715c","parent_uuid":"a3b29277-692a-454a-b0a0-9b159d98ab7c","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"bob","description":"handle","uuid":"bc63b3c5-f047-48e4-a061-d6945b55715c","parent_uuid":"a3b29277-692a-454a-b0a0-9b159d98ab7c","payload":null}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"bob","description":"reply","uuid":"5f2bf717-9801-4407-888a-b0588ddedb46","parent_uuid":"bc63b3c5-f047-48e4-a061-d6945b55715c","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"bob","description":"seeding","uuid":"6777cd1e-16ce-4f77-8490-19565eb28ac4","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"alice","description":"handle","uuid":"1784a058-7a29-4d26-a048-5579524ad642","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"alice","description":"reply","uuid":"c9766eda-6e48-483f-b5ad-b00daca6dbfc","parent_uuid":"1784a058-7a29-4d26-a048-5579524ad642","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"alice","description":"handle","uuid":"5f2bf717-9801-4407-888a-b0588ddedb46","parent_uuid":"bc63b3c5-f047-48e4-a061-d6945b55715c","payload":null}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"alice","description":"reply","uuid":"61970d7a-f0b8-40de-a3cc-80d2e2711bbb","parent_uuid":"5f2bf717-9801-4407-888a-b0588ddedb46","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"bob","description":"handle","uuid":"61970d7a-f0b8-40de-a3cc-80d2e2711bbb","parent_uuid":"5f2bf717-9801-4407-888a-b0588ddedb46","payload":null}
+{"datetime":"2015-03-07 17:53:36 +0100","service":"bob","description":"seeding","uuid":"71f0e7b8-e14e-4037-997c-aa5f74a54c8f","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"carl","description":"handle","uuid":"6777cd1e-16ce-4f77-8490-19565eb28ac4","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"carl","description":"reply","uuid":"637a5251-fd82-4a6f-8dff-24942ea0221f","parent_uuid":"6777cd1e-16ce-4f77-8490-19565eb28ac4","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"carl","description":"handle","uuid":"c9766eda-6e48-483f-b5ad-b00daca6dbfc","parent_uuid":"1784a058-7a29-4d26-a048-5579524ad642","payload":null}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"carl","description":"handle","uuid":"71f0e7b8-e14e-4037-997c-aa5f74a54c8f","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"alice","description":"seeding","uuid":"9efbffe6-b66e-4a04-9fbc-9796d67de36d","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"carl","description":"seeding","uuid":"c003f62c-8991-46b4-9c63-04aa9a082302","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"bob","description":"handle","uuid":"637a5251-fd82-4a6f-8dff-24942ea0221f","parent_uuid":"6777cd1e-16ce-4f77-8490-19565eb28ac4","payload":null}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"bob","description":"reply","uuid":"ab3a28d4-b659-4acb-a1ff-97a2e7d9560f","parent_uuid":"637a5251-fd82-4a6f-8dff-24942ea0221f","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"bob","description":"handle","uuid":"9efbffe6-b66e-4a04-9fbc-9796d67de36d","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"bob","description":"handle","uuid":"c003f62c-8991-46b4-9c63-04aa9a082302","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:37 +0100","service":"bob","description":"reply","uuid":"0dfdd041-f39c-4d20-ac8e-56c20fe508e0","parent_uuid":"c003f62c-8991-46b4-9c63-04aa9a082302","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:38 +0100","service":"bob","description":"seeding","uuid":"de56b6d0-7c80-463f-9cc1-944242b62220","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:38 +0100","service":"carl","description":"handle","uuid":"0dfdd041-f39c-4d20-ac8e-56c20fe508e0","parent_uuid":"c003f62c-8991-46b4-9c63-04aa9a082302","payload":null}
+{"datetime":"2015-03-07 17:53:38 +0100","service":"carl","description":"reply","uuid":"3cd3c414-835e-4bea-aa3d-32150c55c1e2","parent_uuid":"0dfdd041-f39c-4d20-ac8e-56c20fe508e0","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:38 +0100","service":"carl","description":"handle","uuid":"de56b6d0-7c80-463f-9cc1-944242b62220","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:38 +0100","service":"alice","description":"handle","uuid":"ab3a28d4-b659-4acb-a1ff-97a2e7d9560f","parent_uuid":"637a5251-fd82-4a6f-8dff-24942ea0221f","payload":null}
+{"datetime":"2015-03-07 17:53:38 +0100","service":"alice","description":"reply","uuid":"d7395c32-9f7f-4178-8f32-9400cdef8215","parent_uuid":"ab3a28d4-b659-4acb-a1ff-97a2e7d9560f","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:38 +0100","service":"alice","description":"seeding","uuid":"0dc4b684-9d8c-4639-8cce-430f08d58256","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"carl","description":"handle","uuid":"d7395c32-9f7f-4178-8f32-9400cdef8215","parent_uuid":"ab3a28d4-b659-4acb-a1ff-97a2e7d9560f","payload":null}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"bob","description":"handle","uuid":"3cd3c414-835e-4bea-aa3d-32150c55c1e2","parent_uuid":"0dfdd041-f39c-4d20-ac8e-56c20fe508e0","payload":null}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"bob","description":"reply","uuid":"46e38712-75f2-463c-a329-9e387093e2f1","parent_uuid":"3cd3c414-835e-4bea-aa3d-32150c55c1e2","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"bob","description":"handle","uuid":"0dc4b684-9d8c-4639-8cce-430f08d58256","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"bob","description":"seeding","uuid":"279f3587-86ca-4886-9c32-6dc1eb0b5d30","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"alice","description":"handle","uuid":"279f3587-86ca-4886-9c32-6dc1eb0b5d30","parent_uuid":null,"payload":null}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"alice","description":"reply","uuid":"ae7eb7ad-3d84-4390-81fa-6e3be2b47d9f","parent_uuid":"279f3587-86ca-4886-9c32-6dc1eb0b5d30","payload":"Unleash the kraken!"}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"alice","description":"seeding","uuid":"4a858f70-f0ad-4846-b04e-17f519ba3ddf","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"carl","description":"handle","uuid":"46e38712-75f2-463c-a329-9e387093e2f1","parent_uuid":"3cd3c414-835e-4bea-aa3d-32150c55c1e2","payload":null}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"carl","description":"handle","uuid":"ae7eb7ad-3d84-4390-81fa-6e3be2b47d9f","parent_uuid":"279f3587-86ca-4886-9c32-6dc1eb0b5d30","payload":null}
+{"datetime":"2015-03-07 17:53:39 +0100","service":"carl","description":"seeding","uuid":"abf8e50f-3aa6-4a8a-b4e5-76c76d2b86c0","parent_uuid":null,"payload":"Let me tell you a secret:<hidden>"}
