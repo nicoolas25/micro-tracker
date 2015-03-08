@@ -2,6 +2,7 @@ require "utracker/version"
 
 module Utracker
 
+  autoload :Drawer,       'utracker/drawer'
   autoload :Logger,       'utracker/logger'
   autoload :StdoutLogger, 'utracker/logger/stdout_logger'
 
