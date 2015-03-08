@@ -1,6 +1,10 @@
 class Utracker::Drawer
 
-  Node = Struct.new(:service, :edges)
+  Node = Struct.new(:service, :edges) do
+    def ==(other)
+      other.service == service
+    end
+  end
 
   def write_graph(filename)
     File.open(filename, 'w') do |file|
