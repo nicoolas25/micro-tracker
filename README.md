@@ -17,7 +17,7 @@ and debug faster.
 
 Imagine you have three services Alice, Bob and Carl. Each one is sending
 messages to the two others. As good developer, you want to know exactly
-which message has been sent and receiced.
+which message has been sent and received.
 
 Micro-tracker helps you with that. It provides a very simple wrapper for
 your messages:
